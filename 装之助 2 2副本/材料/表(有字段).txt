@@ -1,0 +1,112 @@
+
+brand
+品牌商：
+一个ID. id
+品牌名，name
+logo, logo
+用户名，bname
+密码 password
+
+
+distributor
+经销商
+公司名、name
+公司ID、id
+从属品牌商、bid
+认证状态、pass
+历史积分、hintegral
+剩余积分、sintegral
+经度、longitude
+纬度、latitude
+所在城市、city
+具体地址、add
+公司负责人、head
+添加时间、addtime
+联系电话、phone
+用户名，dname
+密码 password
+
+
+company
+装修公司：
+公司名、name
+公司ID、id
+从属品牌商、bid
+认证状态、pass
+历史积分、hintegral
+剩余积分、sintegral
+经度、longitude
+纬度、latitude
+所在城市、city
+具体地址、add
+公司负责人、head
+添加时间、addtime
+联系电话、phone
+用户名，cname
+密码 password
+
+worker
+工人：
+头像 logo
+姓名，name
+电话、phone
+从属经销商、did
+从属品牌商、bid
+积分、integral
+账号、wname
+密码 password
+
+owner
+业主：
+logo、logo
+姓名、name
+电话、 phone
+注册时间、addtime
+账号、oname
+密码 password
+
+renovation
+我要装修（我要定制：）：
+发布ID、id
+发布人ID uid
+装修/定制：class：1/2
+姓名、name
+电话、phone
+地址、add
+装修需求内容、content
+所在城市、city
+发布时间、addtime
+截止时间  endtime
+
+procedures
+流程：
+id
+标签（分类），tname
+标题：title
+内容。content
+添加人、name
+发布时间addtime
+
+
+brands
+品牌汇：
+分类表：
+ID、id
+名称、name
+父ID fid
+	
+ware
+商品表：
+ID、 id		
+名称、name
+分类ID，aid
+添加时间，addtime
+简介、info
+列表图、pic
+内容、content
+上下架状态 state
+
+bbs
+交流中心：
+帖子：看九江。
+评论：看九江。

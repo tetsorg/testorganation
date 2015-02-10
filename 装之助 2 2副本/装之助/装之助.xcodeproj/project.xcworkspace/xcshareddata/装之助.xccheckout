@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A03E44D6-2663-432C-B861-D99D17F03DDA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>装之助</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>088A84D462AE05D02D6FBCC7FA2EE52D60E80C56</key>
+		<string>https://github.com/tetsorg/testorganation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>装之助 2 2副本/装之助/装之助.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>088A84D462AE05D02D6FBCC7FA2EE52D60E80C56</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tetsorg/testorganation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>088A84D462AE05D02D6FBCC7FA2EE52D60E80C56</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>088A84D462AE05D02D6FBCC7FA2EE52D60E80C56</string>
+			<key>IDESourceControlWCCName</key>
+			<string>decoration</string>
+		</dict>
+	</array>
+</dict>
+</plist>
