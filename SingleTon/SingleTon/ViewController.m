@@ -12,6 +12,7 @@
 
 @interface ViewController ()
 {
+    NSMutableArray *arr;
     NSDictionary *comDic;
     NSMutableDictionary *muDic;
 }
